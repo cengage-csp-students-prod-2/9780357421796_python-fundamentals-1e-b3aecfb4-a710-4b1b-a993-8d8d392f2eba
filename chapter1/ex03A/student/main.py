@@ -1,7 +1,7 @@
 Distance = 60
 Time = 3
 Knots = Distance/1.15078
-Feet = 60*5280 
+Feet = 60*5280
 Seconds = 3*3600
 MPH = Distance/Time 
 FPS = Feet/Seconds
