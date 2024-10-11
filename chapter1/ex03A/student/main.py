@@ -7,4 +7,4 @@ MPH = Distance/Time
 FPS = Feet/Seconds
 print("The speed in knots is:", Knots)
 print("The speed in miles per hour is", MPH)
-print("The speed in feet per second is",FPS)
+print("The speed in feet per second is",FPS) 
