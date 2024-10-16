@@ -1,4 +1,4 @@
-skip_integers(*args):
+def skip_integers(*args):
     for value in args:
         if isinstance (value,int):
             continue
