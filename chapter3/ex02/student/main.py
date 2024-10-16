@@ -1,10 +1,11 @@
 python3_year = 2008
-year = int(input('When was Python3 first released?'))
+response = input("TRUE OR FALSE, Python3 was released in 2008.")
 
-if year == python3_year:
-	print('That is correct.')
-elif year > python3_year:
-	print('Incorrect, too late.')
-elif year < python3_year:
-    print('Incorrect, too early.')
-print('Have a great day!')
+if response == 'TRUE':
+	print('Correct')
+elif response == 'FALSE':
+	print('Incorrect')
+else:
+	print("Please answer TRUE or FALSE (case sensitive)")
+
+print("Have a great day!")
