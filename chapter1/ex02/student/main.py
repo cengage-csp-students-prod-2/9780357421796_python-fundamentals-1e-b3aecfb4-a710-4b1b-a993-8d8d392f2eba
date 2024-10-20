@@ -1,7 +1,7 @@
 import sys
+initials = sys.argv[1]
+nickname = sys.argv[2]
 print ("-" *20)
-initials = "Initials: MR"
-nickname = "Nickname: Matt"
 print(initials)
 print(nickname)
 print ("-" *20)
