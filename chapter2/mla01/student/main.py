@@ -1,5 +1,4 @@
 import requests
-
 def validate_url(url):
     """Validates the given URL string.
 
